@@ -1,0 +1,381 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1689817385782,443,Sign Up,200,OK,STORE 1-15,text,true,,5223,125,20,20,https://demoblaze.com/index.html#,436,0,174
+1689817385978,255,Sign Up,200,OK,STORE 1-19,text,true,,4967,125,20,20,https://demoblaze.com/index.html#,249,0,153
+1689817385193,1047,Sign Up,200,OK,STORE 1-2,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,993,0,763
+1689817385480,774,Sign Up,200,OK,STORE 1-9,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,711,0,476
+1689817385233,1021,Sign Up,200,OK,STORE 1-4,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,958,0,723
+1689817385193,1075,Sign Up,200,OK,STORE 1-3,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,1003,0,763
+1689817385579,689,Sign Up,200,OK,STORE 1-11,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,615,0,377
+1689817385331,947,Sign Up,200,OK,STORE 1-6,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,865,0,625
+1689817386029,250,Sign Up,200,OK,STORE 1-20,text,true,,5055,125,20,20,https://demoblaze.com/index.html#,249,0,163
+1689817385282,997,Sign Up,200,OK,STORE 1-5,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,927,0,674
+1689817385432,853,Sign Up,200,OK,STORE 1-8,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,777,0,524
+1689817385529,775,Sign Up,200,OK,STORE 1-10,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,686,0,427
+1689817385679,625,Sign Up,200,OK,STORE 1-13,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,535,0,277
+1689817385630,674,Sign Up,200,OK,STORE 1-12,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,584,0,326
+1689817385730,574,Sign Up,200,OK,STORE 1-14,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,484,0,226
+1689817385380,924,Sign Up,200,OK,STORE 1-7,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,844,0,576
+1689817385193,1112,Sign Up,200,OK,STORE 1-1,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,1021,0,763
+1689817385829,476,Sign Up,200,OK,STORE 1-16,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,404,0,149
+1689817386240,78,Sign In,200,OK,STORE 1-2,text,true,,5091,125,20,20,https://demoblaze.com/index.html#,71,0,0
+1689817386226,115,Sign In,200,OK,STORE 1-15,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,85,0,0
+1689817386254,88,Sign In,200,OK,STORE 1-9,text,true,,5091,125,20,20,https://demoblaze.com/index.html#,87,0,0
+1689817386233,113,Sign In,200,OK,STORE 1-19,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,85,0,0
+1689817386254,94,Sign In,200,OK,STORE 1-4,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,81,0,0
+1689817385878,480,Sign Up,200,OK,STORE 1-17,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,400,0,155
+1689817386279,118,Sign In,200,OK,STORE 1-6,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,81,0,0
+1689817386279,139,Sign In,200,OK,STORE 1-20,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,93,0,0
+1689817386285,137,Sign In,200,OK,STORE 1-8,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,87,0,0
+1689817386304,131,Sign In,200,OK,STORE 1-10,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,105,0,0
+1689817386305,130,Sign In,200,OK,STORE 1-13,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,106,0,0
+1689817386304,131,Sign In,200,OK,STORE 1-12,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,107,0,0
+1689817386305,130,Sign In,200,OK,STORE 1-7,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,104,0,0
+1689817386305,130,Sign In,200,OK,STORE 1-16,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,104,0,0
+1689817386304,131,Sign In,200,OK,STORE 1-14,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,107,0,0
+1689817385959,493,Sign Up,200,OK,STORE 1-18,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,401,0,164
+1689817386268,249,Sign In,200,OK,STORE 1-3,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,239,0,0
+1689817386268,255,Sign In,200,OK,STORE 1-11,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,239,0,0
+1689817386318,240,Nokia,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,227,0,0
+1689817386452,112,Sign In,200,OK,STORE 1-18,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,76,0,0
+1689817386280,286,Sign In,200,OK,STORE 1-5,text,true,,19906,125,20,20,https://demoblaze.com/index.html#,256,0,0
+1689817386305,275,Sign In,200,OK,STORE 1-1,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,248,0,0
+1689817386518,100,Nokia,200,OK,STORE 1-3,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,77,0,0
+1689817386523,98,Nokia,200,OK,STORE 1-11,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,78,0,0
+1689817386342,300,Nokia,200,OK,STORE 1-9,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,279,0,0
+1689817386342,313,Nokia,200,OK,STORE 1-15,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,279,0,0
+1689817386348,307,Nokia,200,OK,STORE 1-4,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,275,0,0
+1689817386359,296,Sign In,200,OK,STORE 1-17,text,true,,19902,125,20,20,https://demoblaze.com/index.html#,262,0,0
+1689817386398,262,Nokia,200,OK,STORE 1-6,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,243,0,0
+1689817386346,314,Nokia,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,275,0,0
+1689817386566,109,Nokia,200,OK,STORE 1-5,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,85,0,0
+1689817386565,110,Nokia,200,OK,STORE 1-18,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,86,0,0
+1689817386581,108,Nokia,200,OK,STORE 1-1,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,79,0,0
+1689817386422,291,Nokia,200,OK,STORE 1-8,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,253,0,0
+1689817386418,306,Nokia,200,OK,STORE 1-20,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,257,0,0
+1689817386435,294,Nokia,200,OK,STORE 1-13,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,244,0,0
+1689817386435,295,Nokia,200,OK,STORE 1-14,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,245,0,0
+1689817386435,295,Nokia,200,OK,STORE 1-16,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,245,0,0
+1689817386435,295,Nokia,200,OK,STORE 1-7,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,245,0,0
+1689817386435,295,Nokia,200,OK,STORE 1-10,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,245,0,0
+1689817386435,295,Nokia,200,OK,STORE 1-12,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,254,0,0
+1689817386655,112,Nokia,200,OK,STORE 1-17,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,86,0,0
+1689817386558,243,Nexus,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,224,0,0
+1689817386619,256,Nexus,200,OK,STORE 1-3,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,238,0,0
+1689817386643,239,Nexus,200,OK,STORE 1-9,text,true,,5531,131,20,20,https://demoblaze.com/prod.html?idp_=3,233,0,0
+1689817386622,264,Nexus,200,OK,STORE 1-11,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,243,0,0
+1689817386655,264,Nexus,200,OK,STORE 1-4,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,237,0,0
+1689817386660,259,Nexus,200,OK,STORE 1-6,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,240,0,0
+1689817386655,274,Nexus,200,OK,STORE 1-15,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,255,0,0
+1689817386660,269,Nexus,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,245,0,0
+1689817386676,281,Nexus,200,OK,STORE 1-18,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,256,0,0
+1689817386676,281,Nexus,200,OK,STORE 1-5,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,254,0,0
+1689817386689,273,Nexus,200,OK,STORE 1-1,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,247,0,0
+1689817386730,249,Nexus,200,OK,STORE 1-13,text,true,,5631,131,20,20,https://demoblaze.com/prod.html?idp_=3,243,0,0
+1689817386713,273,Nexus,200,OK,STORE 1-8,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,244,0,0
+1689817386725,261,Nexus,200,OK,STORE 1-20,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,232,0,0
+1689817386731,266,Nexus,200,OK,STORE 1-16,text,true,,5501,131,20,20,https://demoblaze.com/prod.html?idp_=3,258,0,0
+1689817386731,278,Nexus,200,OK,STORE 1-14,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,248,0,0
+1689817386731,285,Nexus,200,OK,STORE 1-12,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,261,0,0
+1689817386731,285,Nexus,200,OK,STORE 1-10,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,261,0,0
+1689817386731,285,Nexus,200,OK,STORE 1-7,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,255,0,0
+1689817386802,244,Samsung Galaxy,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,238,0,0
+1689817386768,279,Nexus,200,OK,STORE 1-17,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,240,0,0
+1689817386876,255,Samsung Galaxy,200,OK,STORE 1-3,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,230,0,0
+1689817387047,94,Nokia,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,65,0,0
+1689817386882,269,Samsung Galaxy,200,OK,STORE 1-9,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,238,0,0
+1689817386886,265,Samsung Galaxy,200,OK,STORE 1-11,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,237,0,0
+1689817387048,103,Samsung Galaxy,200,OK,STORE 1-17,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,84,0,0
+1689817386919,261,Samsung Galaxy,200,OK,STORE 1-6,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,239,0,0
+1689817386919,270,Samsung Galaxy,200,OK,STORE 1-4,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,242,0,0
+1689817386930,259,Samsung Galaxy,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,237,0,0
+1689817386930,261,Samsung Galaxy,200,OK,STORE 1-15,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,241,0,0
+1689817386962,303,Samsung Galaxy,200,OK,STORE 1-1,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,230,0,0
+1689817386958,307,Samsung Galaxy,200,OK,STORE 1-5,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,241,0,0
+1689817386957,308,Samsung Galaxy,200,OK,STORE 1-18,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,241,0,0
+1689817387132,137,HomePage,200,OK,STORE 1-3,text,true,,19902,125,20,20,https://demoblaze.com/index.html,124,0,0
+1689817387142,127,Nexus,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,114,0,0
+1689817386980,298,Samsung Galaxy,200,OK,STORE 1-13,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,285,0,0
+1689817387151,127,Nokia,200,OK,STORE 1-11,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,122,0,0
+1689817387151,127,Nokia,200,OK,STORE 1-9,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,118,0,0
+1689817387017,310,Samsung Galaxy,200,OK,STORE 1-7,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,261,0,0
+1689817387010,317,Samsung Galaxy,200,OK,STORE 1-14,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,277,0,0
+1689817386986,341,Samsung Galaxy,200,OK,STORE 1-20,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,292,0,0
+1689817387017,310,Samsung Galaxy,200,OK,STORE 1-10,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,284,0,0
+1689817387189,138,Nokia,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,116,0,0
+1689817387017,310,Samsung Galaxy,200,OK,STORE 1-12,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,261,0,0
+1689817386997,330,Samsung Galaxy,200,OK,STORE 1-16,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,290,0,0
+1689817386986,343,Samsung Galaxy,200,OK,STORE 1-8,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,301,0,0
+1689817387189,140,Nokia,200,OK,STORE 1-4,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,116,0,0
+1689817387191,138,Nokia,200,OK,STORE 1-15,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,118,0,0
+1689817387270,106,Samsung Galaxy,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,73,0,0
+1689817387266,114,Nokia,200,OK,STORE 1-1,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,79,0,0
+1689817387266,114,Nokia,200,OK,STORE 1-5,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,86,0,0
+1689817387266,114,HomePage,200,OK,STORE 1-18,text,true,,19906,125,20,20,https://demoblaze.com/index.html,78,0,0
+1689817387278,120,Nexus,200,OK,STORE 1-9,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,102,0,0
+1689817387278,128,HomePage,200,OK,STORE 1-13,text,true,,19906,125,20,20,https://demoblaze.com/index.html,102,0,0
+1689817387151,274,Nokia,200,OK,STORE 1-17,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,244,0,0
+1689817387329,96,Nexus,200,OK,STORE 1-15,text,true,,5663,131,20,20,https://demoblaze.com/prod.html?idp_=3,86,0,0
+1689817387328,119,Nexus,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,86,0,0
+1689817387329,122,Nexus,200,OK,STORE 1-4,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,81,0,0
+1689817387329,123,HomePage,200,OK,STORE 1-8,text,true,,19902,125,20,20,https://demoblaze.com/index.html,92,0,0
+1689817387328,125,Nokia,200,OK,STORE 1-7,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,93,0,0
+1689817387327,126,Nokia,200,OK,STORE 1-16,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,90,0,0
+1689817387180,273,Nokia,200,OK,STORE 1-6,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,247,0,0
+1689817387380,118,Nexus,200,OK,STORE 1-1,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,80,0,0
+1689817387380,118,Nexus,200,OK,STORE 1-5,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,80,0,0
+1689817387399,99,Samsung Galaxy,200,OK,STORE 1-9,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,79,0,0
+1689817387426,98,Samsung Galaxy,200,OK,STORE 1-15,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,90,0,0
+1689817387425,99,Nexus,200,OK,STORE 1-17,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,91,0,0
+1689817387270,269,Cart,200,OK,STORE 1-3,text,true,,24602,124,20,20,https://demoblaze.com/cart.html,246,0,0
+1689817387453,96,Nexus,200,OK,STORE 1-7,text,true,,5568,131,20,20,https://demoblaze.com/prod.html?idp_=3,92,0,0
+1689817387453,96,Nexus,200,OK,STORE 1-16,text,true,,5674,131,20,20,https://demoblaze.com/prod.html?idp_=3,92,0,0
+1689817387447,109,Samsung Galaxy,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,94,0,0
+1689817387451,107,Samsung Galaxy,200,OK,STORE 1-4,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,90,0,0
+1689817387454,104,Nexus,200,OK,STORE 1-6,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,87,0,0
+1689817387278,293,Nexus,200,OK,STORE 1-11,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,271,0,0
+1689817387327,266,Nokia,200,OK,STORE 1-12,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,242,0,0
+1689817387327,274,Nokia,200,OK,STORE 1-10,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,244,0,0
+1689817387327,274,Nokia,200,OK,STORE 1-20,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,244,0,0
+1689817387327,281,Nokia,200,OK,STORE 1-14,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,248,0,0
+1689817387499,115,Samsung Galaxy,200,OK,STORE 1-5,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,100,0,0
+1689817387524,90,HomePage,200,OK,STORE 1-15,text,true,,5091,125,20,20,https://demoblaze.com/index.html,84,0,0
+1689817387499,118,HomePage,200,OK,STORE 1-9,text,true,,19906,125,20,20,https://demoblaze.com/index.html,102,0,0
+1689817387376,248,Nokia,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,228,0,0
+1689817387524,107,Samsung Galaxy,200,OK,STORE 1-17,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,84,0,0
+1689817387539,117,Nokia,200,OK,STORE 1-3,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,94,0,0
+1689817387380,297,Cart,200,OK,STORE 1-18,text,true,,24606,124,20,20,https://demoblaze.com/cart.html,253,0,0
+1689817387550,146,Samsung Galaxy,200,OK,STORE 1-16,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,89,0,0
+1689817387550,146,Samsung Galaxy,200,OK,STORE 1-7,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,89,0,0
+1689817387557,139,Nokia,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,92,0,0
+1689817387558,142,Samsung Galaxy,200,OK,STORE 1-6,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,91,0,0
+1689817387558,142,Nokia,200,OK,STORE 1-4,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,91,0,0
+1689817387407,295,Cart,200,OK,STORE 1-13,text,true,,24602,124,20,20,https://demoblaze.com/cart.html,249,0,0
+1689817387571,136,Samsung Galaxy,200,OK,STORE 1-11,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,129,0,0
+1689817387594,130,Nexus,200,OK,STORE 1-12,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,106,0,0
+1689817387602,133,Nexus,200,OK,STORE 1-10,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,107,0,0
+1689817387614,128,Nokia,200,OK,STORE 1-5,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,110,0,0
+1689817387617,125,Cart,200,OK,STORE 1-9,text,true,,24602,124,20,20,https://demoblaze.com/cart.html,101,0,0
+1689817387453,289,Cart,200,OK,STORE 1-8,text,true,,24602,124,20,20,https://demoblaze.com/cart.html,261,0,0
+1689817387609,133,Nexus,200,OK,STORE 1-14,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,109,0,0
+1689817387614,128,Cart,200,OK,STORE 1-15,text,true,,24602,124,20,20,https://demoblaze.com/cart.html,104,0,0
+1689817387631,120,Nokia,200,OK,STORE 1-17,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,111,0,0
+1689817387499,269,Samsung Galaxy,200,OK,STORE 1-1,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,248,0,0
+1689817387677,106,Nokia,200,OK,STORE 1-18,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,80,0,0
+1689817387707,114,Nokia,200,OK,STORE 1-11,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,87,0,0
+1689817387700,121,Nokia,200,OK,STORE 1-6,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,83,0,0
+1689817387700,121,Nexus,200,OK,STORE 1-4,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,84,0,0
+1689817387703,118,Nokia,200,OK,STORE 1-13,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,80,0,0
+1689817387696,125,Nexus,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,87,0,0
+1689817387696,132,Nokia,200,OK,STORE 1-7,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,87,0,0
+1689817387696,132,Nokia,200,OK,STORE 1-16,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,87,0,0
+1689817387724,105,Samsung Galaxy,200,OK,STORE 1-12,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,97,0,0
+1689817387735,111,Samsung Galaxy,200,OK,STORE 1-10,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,94,0,0
+1689817387743,105,Nokia,200,OK,STORE 1-9,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,91,0,0
+1689817387751,107,Nexus,200,OK,STORE 1-17,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,83,0,0
+1689817387743,115,Nokia,200,OK,STORE 1-8,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,96,0,0
+1689817387743,115,Nokia,200,OK,STORE 1-15,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,91,0,0
+1689817387743,118,Nexus,200,OK,STORE 1-5,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,91,0,0
+1689817387768,96,Nokia,200,OK,STORE 1-1,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,90,0,0
+1689817387624,251,Nexus,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,223,0,0
+1689817387602,277,Nexus,200,OK,STORE 1-20,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,259,0,0
+1689817387783,100,Nexus,200,OK,STORE 1-18,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,81,0,0
+1689817387821,99,Nexus,200,OK,STORE 1-11,text,true,,5509,131,20,20,https://demoblaze.com/prod.html?idp_=3,99,0,0
+1689817387657,267,Nexus,200,OK,STORE 1-3,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,239,0,0
+1689817387821,116,Nexus,200,OK,STORE 1-6,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,89,0,0
+1689817387821,116,Samsung Galaxy,200,OK,STORE 1-4,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,89,0,0
+1689817387821,126,Nexus,200,OK,STORE 1-13,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,87,0,0
+1689817387830,122,Nokia,200,OK,STORE 1-12,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,94,0,0
+1689817387829,123,Nexus,200,OK,STORE 1-7,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,95,0,0
+1689817387821,130,Samsung Galaxy,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,94,0,0
+1689817387846,106,HomePage,200,OK,STORE 1-10,text,true,,19902,125,20,20,https://demoblaze.com/index.html,91,0,0
+1689817387875,91,Samsung Galaxy,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,62,0,0
+1689817387858,115,Samsung Galaxy,200,OK,STORE 1-17,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,89,0,0
+1689817387858,115,Nexus,200,OK,STORE 1-8,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,89,0,0
+1689817387864,109,Nexus,200,OK,STORE 1-1,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,83,0,0
+1689817387858,115,Nexus,200,OK,STORE 1-15,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,89,0,0
+1689817387861,119,Samsung Galaxy,200,OK,STORE 1-5,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,91,0,0
+1689817387880,101,Samsung Galaxy,200,OK,STORE 1-20,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,84,0,0
+1689817387883,98,Samsung Galaxy,200,OK,STORE 1-18,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,90,0,0
+1689817387743,282,Samsung Galaxy,200,OK,STORE 1-14,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,244,0,0
+1689817387938,118,Samsung Galaxy,200,OK,STORE 1-6,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,87,0,0
+1689817387920,136,Samsung Galaxy,200,OK,STORE 1-11,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,105,0,0
+1689817387924,132,Samsung Galaxy,200,OK,STORE 1-3,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,101,0,0
+1689817387966,92,Nokia,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,86,0,0
+1689817387938,127,Nokia,200,OK,STORE 1-4,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,88,0,0
+1689817387952,113,Nokia,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,92,0,0
+1689817387948,120,Samsung Galaxy,200,OK,STORE 1-13,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,89,0,0
+1689817387952,121,Samsung Galaxy,200,OK,STORE 1-7,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,92,0,0
+1689817387974,120,Nokia,200,OK,STORE 1-17,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,95,0,0
+1689817387974,120,Samsung Galaxy,200,OK,STORE 1-15,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,95,0,0
+1689817387974,124,Samsung Galaxy,200,OK,STORE 1-8,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,95,0,0
+1689817387981,117,HomePage,200,OK,STORE 1-18,text,true,,19906,125,20,20,https://demoblaze.com/index.html,92,0,0
+1689817387974,124,Samsung Galaxy,200,OK,STORE 1-1,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,95,0,0
+1689817387980,122,Nokia,200,OK,STORE 1-5,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,93,0,0
+1689817387981,121,Nokia,200,OK,STORE 1-20,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,92,0,0
+1689817387829,274,Nexus,200,OK,STORE 1-16,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,261,0,0
+1689817387849,254,Nexus,200,OK,STORE 1-9,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,249,0,0
+1689817388025,106,Nokia,200,OK,STORE 1-14,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,88,0,0
+1689817388058,92,Nexus,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,79,0,0
+1689817388057,104,HomePage,200,OK,STORE 1-3,text,true,,19902,125,20,20,https://demoblaze.com/index.html,82,0,0
+1689817388057,109,HomePage,200,OK,STORE 1-11,text,true,,19906,125,20,20,https://demoblaze.com/index.html,92,0,0
+1689817388057,109,Nokia,200,OK,STORE 1-6,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,88,0,0
+1689817388065,108,Nexus,200,OK,STORE 1-4,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,86,0,0
+1689817388065,108,Nexus,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,86,0,0
+1689817388069,108,Nokia,200,OK,STORE 1-13,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,86,0,0
+1689817388102,103,Nexus,200,OK,STORE 1-20,text,true,,5611,131,20,20,https://demoblaze.com/prod.html?idp_=3,83,0,0
+1689817388073,132,Nokia,200,OK,STORE 1-7,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,93,0,0
+1689817388102,112,Nexus,200,OK,STORE 1-5,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,82,0,0
+1689817388095,123,Nokia,200,OK,STORE 1-15,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,89,0,0
+1689817388098,120,Nokia,200,OK,STORE 1-1,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,83,0,0
+1689817388095,123,Nexus,200,OK,STORE 1-17,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,90,0,0
+1689817388103,119,Samsung Galaxy,200,OK,STORE 1-16,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,81,0,0
+1689817388098,124,Nokia,200,OK,STORE 1-8,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,87,0,0
+1689817387952,274,Nexus,200,OK,STORE 1-12,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,262,0,0
+1689817388132,96,Nexus,200,OK,STORE 1-14,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,86,0,0
+1689817387952,276,Cart,200,OK,STORE 1-10,text,true,,24602,124,20,20,https://demoblaze.com/cart.html,262,0,0
+1689817388150,102,Samsung Galaxy,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,84,0,0
+1689817388173,96,Samsung Galaxy,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,80,0,0
+1689817388167,104,Nexus,200,OK,STORE 1-6,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,86,0,0
+1689817388173,98,Samsung Galaxy,200,OK,STORE 1-4,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,80,0,0
+1689817388177,99,Nexus,200,OK,STORE 1-13,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,82,0,0
+1689817388205,139,Samsung Galaxy,200,OK,STORE 1-20,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,84,0,0
+1689817388252,116,Nokia,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,116,0,0
+1689817388219,150,Samsung Galaxy,200,OK,STORE 1-17,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,121,0,0
+1689817388227,142,Samsung Galaxy,200,OK,STORE 1-12,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,113,0,0
+1689817388229,140,Samsung Galaxy,200,OK,STORE 1-14,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,111,0,0
+1689817388229,140,Nokia,200,OK,STORE 1-10,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,115,0,0
+1689817388219,151,Nexus,200,OK,STORE 1-15,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,125,0,0
+1689817388222,148,Nexus,200,OK,STORE 1-8,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,122,0,0
+1689817388214,156,Samsung Galaxy,200,OK,STORE 1-5,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,126,0,0
+1689817388219,151,Nexus,200,OK,STORE 1-1,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,125,0,0
+1689817388103,277,Samsung Galaxy,200,OK,STORE 1-9,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,267,0,0
+1689817388098,282,Cart,200,OK,STORE 1-18,text,true,,24606,124,20,20,https://demoblaze.com/cart.html,282,0,0
+1689817388269,132,Nokia,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,111,0,0
+1689817388272,131,Nokia,200,OK,STORE 1-4,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,108,0,0
+1689817388272,131,Samsung Galaxy,200,OK,STORE 1-6,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,111,0,0
+1689817388277,126,Samsung Galaxy,200,OK,STORE 1-13,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,106,0,0
+1689817388161,266,Cart,200,OK,STORE 1-3,text,true,,24606,124,20,20,https://demoblaze.com/cart.html,247,0,0
+1689817388167,260,Cart,200,OK,STORE 1-11,text,true,,24606,124,20,20,https://demoblaze.com/cart.html,236,0,0
+1689817388344,122,Nokia,200,OK,STORE 1-20,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,89,0,0
+1689817388369,226,Nexus,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,75,0,0
+1689817388369,253,Nexus,200,OK,STORE 1-10,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,97,0,0
+1689817388369,253,HomePage,200,OK,STORE 1-12,text,true,,19902,125,20,20,https://demoblaze.com/index.html,85,0,0
+1689817388369,253,Nokia,200,OK,STORE 1-14,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,97,0,0
+1689817388370,252,HomePage,200,OK,STORE 1-5,text,true,,19902,125,20,20,https://demoblaze.com/index.html,96,0,0
+1689817388205,417,Nexus,200,OK,STORE 1-7,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,249,0,0
+1689817388370,256,Samsung Galaxy,200,OK,STORE 1-1,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,87,0,0
+1689817388380,246,Nokia,200,OK,STORE 1-9,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,86,0,0
+1689817388401,225,Nexus,200,OK,STORE 1-19,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=3,221,0,0
+1689817388222,404,Nokia,200,OK,STORE 1-16,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,251,0,0
+1689817388370,256,Samsung Galaxy,200,OK,STORE 1-15,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,87,0,0
+1689817388370,260,Samsung Galaxy,200,OK,STORE 1-8,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,96,0,0
+1689817388381,249,Nokia,200,OK,STORE 1-18,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,193,0,0
+1689817388403,232,Nexus,200,OK,STORE 1-4,text,true,,5670,131,20,20,https://demoblaze.com/prod.html?idp_=3,227,0,0
+1689817388403,236,Nokia,200,OK,STORE 1-13,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,227,0,0
+1689817388403,236,Nokia,200,OK,STORE 1-6,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,227,0,0
+1689817388466,174,Nexus,200,OK,STORE 1-20,text,true,,5568,131,20,20,https://demoblaze.com/prod.html?idp_=3,173,0,0
+1689817388428,215,Nokia,200,OK,STORE 1-3,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,207,0,0
+1689817388428,215,Nokia,200,OK,STORE 1-11,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=2,211,0,0
+1689817388369,277,Nokia,200,OK,STORE 1-17,text,true,,22053,131,20,20,https://demoblaze.com/prod.html?idp_=2,274,0,0
+1689817388596,80,Samsung Galaxy,200,OK,STORE 1-2,text,true,,22049,131,20,20,https://demoblaze.com/prod.html?idp_=1,61,0,0
+1689817388626,98,Nexus,200,OK,STORE 1-16,text,true,,5487,131,19,19,https://demoblaze.com/prod.html?idp_=3,82,0,0
+1689817388623,101,Nexus,200,OK,STORE 1-14,text,true,,5433,131,19,19,https://demoblaze.com/prod.html?idp_=3,88,0,0
+1689817388626,101,Nexus,200,OK,STORE 1-9,text,true,,5662,131,19,19,https://demoblaze.com/prod.html?idp_=3,85,0,0
+1689817388626,117,Samsung Galaxy,200,OK,STORE 1-19,text,true,,22049,131,19,19,https://demoblaze.com/prod.html?idp_=1,81,0,0
+1689817388626,127,Nokia,200,OK,STORE 1-15,text,true,,22049,131,18,18,https://demoblaze.com/prod.html?idp_=2,85,0,0
+1689817388626,127,Nokia,200,OK,STORE 1-1,text,true,,22049,131,18,18,https://demoblaze.com/prod.html?idp_=2,85,0,0
+1689817388630,123,Nexus,200,OK,STORE 1-18,text,true,,22049,131,18,18,https://demoblaze.com/prod.html?idp_=3,81,0,0
+1689817388623,138,Samsung Galaxy,200,OK,STORE 1-10,text,true,,22049,131,18,18,https://demoblaze.com/prod.html?idp_=1,88,0,0
+1689817388623,138,Cart,200,OK,STORE 1-12,text,true,,24602,124,18,18,https://demoblaze.com/cart.html,88,0,0
+1689817388635,130,Samsung Galaxy,200,OK,STORE 1-4,text,true,,22049,131,18,18,https://demoblaze.com/prod.html?idp_=1,99,0,0
+1689817388630,135,Nokia,200,OK,STORE 1-8,text,true,,22049,131,18,18,https://demoblaze.com/prod.html?idp_=2,100,0,0
+1689817388623,142,Samsung Galaxy,200,OK,STORE 1-7,text,true,,22049,131,18,18,https://demoblaze.com/prod.html?idp_=1,97,0,0
+1689817388639,130,Nexus,200,OK,STORE 1-13,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=3,100,0,0
+1689817388640,132,Samsung Galaxy,200,OK,STORE 1-20,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=1,113,0,0
+1689817388643,129,Nexus,200,OK,STORE 1-11,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=3,113,0,0
+1689817388646,126,Nexus,200,OK,STORE 1-17,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=3,110,0,0
+1689817388643,129,Nexus,200,OK,STORE 1-3,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=3,110,0,0
+1689817388639,133,Nexus,200,OK,STORE 1-6,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=3,104,0,0
+1689817388724,100,Samsung Galaxy,200,OK,STORE 1-14,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=1,75,0,0
+1689817388727,104,Samsung Galaxy,200,OK,STORE 1-9,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=1,84,0,0
+1689817388753,125,Samsung Galaxy,200,OK,STORE 1-18,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=1,95,0,0
+1689817388753,132,Nexus,200,OK,STORE 1-1,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=3,99,0,0
+1689817388761,125,HomePage,200,OK,STORE 1-10,text,true,,19906,125,17,17,https://demoblaze.com/index.html,92,0,0
+1689817388761,129,Nokia,200,OK,STORE 1-12,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=2,92,0,0
+1689817388773,117,Samsung Galaxy,200,OK,STORE 1-3,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=1,88,0,0
+1689817388753,137,Nexus,200,OK,STORE 1-15,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=3,99,0,0
+1689817388765,130,HomePage,200,OK,STORE 1-7,text,true,,19906,125,17,17,https://demoblaze.com/index.html,88,0,0
+1689817388773,122,Nokia,200,OK,STORE 1-20,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=2,88,0,0
+1689817388773,122,Samsung Galaxy,200,OK,STORE 1-11,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=1,88,0,0
+1689817388769,126,Samsung Galaxy,200,OK,STORE 1-13,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=1,89,0,0
+1689817388773,122,Samsung Galaxy,200,OK,STORE 1-6,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=1,85,0,0
+1689817388773,122,Samsung Galaxy,200,OK,STORE 1-17,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=1,85,0,0
+1689817388765,138,Nexus,200,OK,STORE 1-8,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=3,96,0,0
+1689817388623,280,Cart,200,OK,STORE 1-5,text,true,,24602,124,17,17,https://demoblaze.com/cart.html,267,0,0
+1689817388824,92,Nokia,200,OK,STORE 1-14,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=2,79,0,0
+1689817388831,95,Nokia,200,OK,STORE 1-9,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=2,78,0,0
+1689817388724,263,Samsung Galaxy,200,OK,STORE 1-16,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=1,234,0,0
+1689817388879,124,Nokia,200,OK,STORE 1-18,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=2,94,0,0
+1689817388895,114,Nexus,200,OK,STORE 1-20,text,true,,5521,131,17,17,https://demoblaze.com/prod.html?idp_=3,93,0,0
+1689817388891,121,Nokia,200,OK,STORE 1-3,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=2,90,0,0
+1689817388895,123,Cart,200,OK,STORE 1-7,text,true,,24602,124,17,17,https://demoblaze.com/cart.html,86,0,0
+1689817388891,127,Nexus,200,OK,STORE 1-12,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=3,90,0,0
+1689817388886,132,Cart,200,OK,STORE 1-10,text,true,,24606,124,17,17,https://demoblaze.com/cart.html,95,0,0
+1689817388895,123,HomePage,200,OK,STORE 1-6,text,true,,19906,125,17,17,https://demoblaze.com/index.html,86,0,0
+1689817388886,132,Samsung Galaxy,200,OK,STORE 1-1,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=1,95,0,0
+1689817388895,123,Nokia,200,OK,STORE 1-13,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=2,86,0,0
+1689817388891,127,Samsung Galaxy,200,OK,STORE 1-15,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=1,90,0,0
+1689817388895,123,Nokia,200,OK,STORE 1-11,text,true,,22049,131,17,17,https://demoblaze.com/prod.html?idp_=2,90,0,0
+1689817388903,130,Nokia,200,OK,STORE 1-5,text,true,,22049,131,15,15,https://demoblaze.com/prod.html?idp_=2,115,0,0
+1689817388903,140,Samsung Galaxy,200,OK,STORE 1-8,text,true,,22049,131,15,15,https://demoblaze.com/prod.html?idp_=1,116,0,0
+1689817388927,121,Nexus,200,OK,STORE 1-9,text,true,,22049,131,15,15,https://demoblaze.com/prod.html?idp_=3,100,0,0
+1689817388916,133,Nexus,200,OK,STORE 1-14,text,true,,22049,131,15,15,https://demoblaze.com/prod.html?idp_=3,108,0,0
+1689817388988,122,Nokia,200,OK,STORE 1-16,text,true,,22049,131,15,15,https://demoblaze.com/prod.html?idp_=2,91,0,0
+1689817389013,109,Nexus,200,OK,STORE 1-3,text,true,,22049,131,15,15,https://demoblaze.com/prod.html?idp_=3,92,0,0
+1689817389018,104,Nexus,200,OK,STORE 1-11,text,true,,5631,131,15,15,https://demoblaze.com/prod.html?idp_=3,96,0,0
+1689817389004,122,Nexus,200,OK,STORE 1-18,text,true,,22049,131,15,15,https://demoblaze.com/prod.html?idp_=3,94,0,0
+1689817389018,108,Nexus,200,OK,STORE 1-13,text,true,,22049,131,15,15,https://demoblaze.com/prod.html?idp_=3,92,0,0
+1689817389009,119,Samsung Galaxy,200,OK,STORE 1-20,text,true,,22049,131,15,15,https://demoblaze.com/prod.html?idp_=1,96,0,0
+1689817389018,110,Samsung Galaxy,200,OK,STORE 1-12,text,true,,22049,131,15,15,https://demoblaze.com/prod.html?idp_=1,80,0,0
+1689817389018,115,Nokia,200,OK,STORE 1-7,text,true,,22049,131,14,14,https://demoblaze.com/prod.html?idp_=2,87,0,0
+1689817389033,110,Nexus,200,OK,STORE 1-5,text,true,,22049,131,14,14,https://demoblaze.com/prod.html?idp_=3,93,0,0
+1689817389018,125,Nokia,200,OK,STORE 1-10,text,true,,22049,131,14,14,https://demoblaze.com/prod.html?idp_=2,99,0,0
+1689817389048,101,Samsung Galaxy,200,OK,STORE 1-9,text,true,,22049,131,14,14,https://demoblaze.com/prod.html?idp_=1,85,0,0
+1689817389049,100,Samsung Galaxy,200,OK,STORE 1-14,text,true,,22049,131,14,14,https://demoblaze.com/prod.html?idp_=1,84,0,0
+1689817389043,106,HomePage,200,OK,STORE 1-8,text,true,,19902,125,14,14,https://demoblaze.com/index.html,84,0,0
+1689817388895,257,HomePage,200,OK,STORE 1-17,text,true,,19902,125,12,12,https://demoblaze.com/index.html,248,0,0
+1689817389122,121,Samsung Galaxy,200,OK,STORE 1-3,text,true,,22049,131,12,12,https://demoblaze.com/prod.html?idp_=1,86,0,0
+1689817389122,121,Samsung Galaxy,200,OK,STORE 1-11,text,true,,22049,131,12,12,https://demoblaze.com/prod.html?idp_=1,86,0,0
+1689817389126,117,Samsung Galaxy,200,OK,STORE 1-18,text,true,,22049,131,12,12,https://demoblaze.com/prod.html?idp_=1,79,0,0
+1689817389129,114,Nokia,200,OK,STORE 1-12,text,true,,22049,131,12,12,https://demoblaze.com/prod.html?idp_=2,76,0,0
+1689817389126,117,Samsung Galaxy,200,OK,STORE 1-13,text,true,,22049,131,12,12,https://demoblaze.com/prod.html?idp_=1,82,0,0
+1689817389110,133,Nexus,200,OK,STORE 1-16,text,true,,22049,131,12,12,https://demoblaze.com/prod.html?idp_=3,95,0,0
+1689817389133,112,Nexus,200,OK,STORE 1-7,text,true,,22049,131,10,10,https://demoblaze.com/prod.html?idp_=3,81,0,0
+1689817389144,107,Nexus,200,OK,STORE 1-10,text,true,,22049,131,10,10,https://demoblaze.com/prod.html?idp_=3,99,0,0
+1689817389152,99,Cart,200,OK,STORE 1-17,text,true,,24606,124,10,10,https://demoblaze.com/cart.html,91,0,0
+1689817389144,107,Samsung Galaxy,200,OK,STORE 1-5,text,true,,22049,131,10,10,https://demoblaze.com/prod.html?idp_=1,99,0,0
+1689817389149,110,Cart,200,OK,STORE 1-8,text,true,,24602,124,8,8,https://demoblaze.com/cart.html,94,0,0
+1689817389018,266,Cart,200,OK,STORE 1-6,text,true,,24602,124,8,8,https://demoblaze.com/cart.html,241,0,0
+1689817389243,116,HomePage,200,OK,STORE 1-18,text,true,,19902,125,7,7,https://demoblaze.com/index.html,87,0,0
+1689817389243,115,Nokia,200,OK,STORE 1-3,text,true,,22049,131,7,7,https://demoblaze.com/prod.html?idp_=2,94,0,0
+1689817389245,122,Samsung Galaxy,200,OK,STORE 1-7,text,true,,22049,131,7,7,https://demoblaze.com/prod.html?idp_=1,95,0,0
+1689817389243,124,Samsung Galaxy,200,OK,STORE 1-16,text,true,,22049,131,7,7,https://demoblaze.com/prod.html?idp_=1,90,0,0
+1689817389243,124,Nexus,200,OK,STORE 1-12,text,true,,22049,131,7,7,https://demoblaze.com/prod.html?idp_=3,90,0,0
+1689817389252,115,Samsung Galaxy,200,OK,STORE 1-10,text,true,,22049,131,7,7,https://demoblaze.com/prod.html?idp_=1,90,0,0
+1689817389259,108,Nokia,200,OK,STORE 1-8,text,true,,22049,131,7,7,https://demoblaze.com/prod.html?idp_=2,89,0,0
+1689817389359,92,Nexus,200,OK,STORE 1-3,text,true,,5621,131,6,6,https://demoblaze.com/prod.html?idp_=3,87,0,0
+1689817389359,117,Cart,200,OK,STORE 1-18,text,true,,24606,124,6,6,https://demoblaze.com/cart.html,87,0,0
+1689817389368,108,Nokia,200,OK,STORE 1-10,text,true,,22049,131,6,6,https://demoblaze.com/prod.html?idp_=2,78,0,0
+1689817389368,108,HomePage,200,OK,STORE 1-16,text,true,,19906,125,6,6,https://demoblaze.com/index.html,84,0,0
+1689817389368,108,Samsung Galaxy,200,OK,STORE 1-12,text,true,,22049,131,6,6,https://demoblaze.com/prod.html?idp_=1,85,0,0
+1689817389368,109,Nexus,200,OK,STORE 1-8,text,true,,22049,131,6,6,https://demoblaze.com/prod.html?idp_=3,90,0,0
+1689817389452,94,Samsung Galaxy,200,OK,STORE 1-3,text,true,,22049,131,5,5,https://demoblaze.com/prod.html?idp_=1,74,0,0
+1689817389476,134,Nokia,200,OK,STORE 1-18,text,true,,22049,131,4,4,https://demoblaze.com/prod.html?idp_=2,81,0,0
+1689817389477,142,Cart,200,OK,STORE 1-16,text,true,,24602,124,4,4,https://demoblaze.com/cart.html,80,0,0
+1689817389476,143,Nexus,200,OK,STORE 1-10,text,true,,22049,131,4,4,https://demoblaze.com/prod.html?idp_=3,81,0,0
+1689817389477,142,Samsung Galaxy,200,OK,STORE 1-8,text,true,,22049,131,4,4,https://demoblaze.com/prod.html?idp_=1,89,0,0
+1689817389619,100,HomePage,200,OK,STORE 1-8,text,true,,19906,125,3,3,https://demoblaze.com/index.html,82,0,0
+1689817389610,109,Nexus,200,OK,STORE 1-18,text,true,,22049,131,3,3,https://demoblaze.com/prod.html?idp_=3,80,0,0
+1689817389619,102,Samsung Galaxy,200,OK,STORE 1-10,text,true,,22049,131,3,3,https://demoblaze.com/prod.html?idp_=1,77,0,0
+1689817389719,122,Samsung Galaxy,200,OK,STORE 1-18,text,true,,22049,131,2,2,https://demoblaze.com/prod.html?idp_=1,114,0,0
+1689817389719,298,Cart,200,OK,STORE 1-8,text,true,,24602,124,1,1,https://demoblaze.com/cart.html,262,0,0
